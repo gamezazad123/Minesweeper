@@ -7,5 +7,5 @@ Project นี้เป็นโปรเจคที่ทำขึ้นเพ
 | รหัสนักศึกษา | ชื่อ - นามสกุล | Github |
 | --- | --- | --- |
 | 62070070 | วรรธนะ วงศ์วัฒนอนันต์ | [genwtn123] (https://github.com/genwtn123) |
-| 62070179 | ศิวกร สมคะเณย์ | [gamezazad123](https://github.com/gamezazad123) |
+| 62070179 | ศิวกร สมคะเณย์ | [gamezazad123] (https://github.com/gamezazad123) |
 | 62070193 | สหพล ปั้นแตง | [BaySP] (https://github.com/BaySP) |
