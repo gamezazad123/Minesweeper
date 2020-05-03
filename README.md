@@ -6,6 +6,6 @@ Project นี้เป็นโปรเจคที่ทำขึ้นเพ
 ## รายชื่อผู้จัดทำ
 | ชื่อ - นามสกุล | รหัสนักศึกษา | Github |
 | --- | --- | --- |
-| วรรธนะ วงศ์วัฒนอนันต์ | 62070070 | [genwtn123](https://github.com/genwtn123) |
+| วรรธนะ วงศ์วัฒนอนันต์ | 62070165 | [genwtn123](https://github.com/genwtn123) |
 | ศิวกร สมคะเณย์ | 62070179 | [genwtn123](https://github.com/genwtn123) |
 | สหพล ปั้นแตง | 62070193 | [BaySP](https://github.com/BaySP) |
