@@ -4,8 +4,8 @@ Project นี้เป็นโปรเจคที่ทำขึ้นเพ
 ## Tutorial
 
 ## รายชื่อผู้จัดทำ
-| ชื่อ - นามสกุล | Github | รหัสนักศึกษา |
+| ชื่อ - นามสกุล | รหัสนักศึกษา | Github |
 | --- | --- | --- |
-| วรรธนะ วงศ์วัฒนอนันต์ | [genwtn123](https://github.com/genwtn123) | 62070070 |
-| ศิวกร สมคะเณย์ | [gamezazad123](https://github.com/gamezazad123) | 62070179 |
-| สหพล ปั้นแตง | [BaySP](https://github.com/BaySP) | 62070193 |
+| วรรธนะ วงศ์วัฒนอนันต์ | 62070070 | [genwtn123](https://github.com/genwtn123) |
+| ศิวกร สมคะเณย์ | 62070179 | [genwtn123](https://github.com/genwtn123) |
+| สหพล ปั้นแตง | 62070193 | [BaySP](https://github.com/BaySP) |
