@@ -2,7 +2,6 @@
 ## บทนำ
 Project นี้เป็นโปรเจคที่ทำขึ้นเพื่อสร้างความบันเทิง ฝึกทักษะการแก้ปัญหาและฝึกทักษะการคิด พัฒนาโปรแกรมด้วยภาษาC
 ## Poster
-![](img/MSProject_Print [Converted].jpg)
 ## การเล่นเบื้องต้น
 ## Website 
 - [Website](https://gamezazad123.github.io/Minesweeper/)
